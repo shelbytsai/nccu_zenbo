@@ -1,0 +1,7 @@
+#Sat Apr 14 12:20:32 CST 2018
+base.0=/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/transforms/dexMerger/debug/13
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/transforms/dexMerger/debug/12

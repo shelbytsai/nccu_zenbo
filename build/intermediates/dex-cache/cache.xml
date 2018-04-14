@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fc3532d0bd9ad54c6ae4270cf7ad71c4718c2098.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotActivityLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7004f314b02b3728c44ba17a9b7714e5b918c327">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/ZenboSDK_and_SampleCode_v1.0.67.1808-RobotActivityLibrary-unspecified_1bd98b3b6c27dfb9fd6af3cf511b5998a770072f.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_cd92519e8ba82edeb7b43f5ea7f0c97231f6defd.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_2a9ec0654a82bdda0b2aed6234ed7430be7583a2.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_613ea573f0b697ca159a01aab436845686ba3c05.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6c4130469e3190466cb234ea3ad1f7c3ca25ab53.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboSDK/ZenboSDK.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ddf9f9ad271ae7c5afec20e655be41eabd9b26db">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/ZenboSDK_36bc13c0b6cab68b1625e5ed9c3a7607654a836f.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b65caaf8f1d26a4239164a7936952f18ef2806df.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1ddd2aaa4f25681a98e84b277767ced70549c15a.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5a09506feff25fc03385695b0ee13609297a0696.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_613ea573f0b697ca159a01aab436845686ba3c05.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5fd61c2f1519a18b8441eb8e499354d2046efff9.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_5b36d36055d203970814e3804d9ea44bb0dba3c9.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6126c580992c99c408726e9b1a45bdc10f3a063b.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_437a662f4236ae8065b78ca3cbbfa116d67af4bb.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_667679a639b29805dafac24182242c493c4f0ab9.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_abcb32bcfb7d5401b06142c51a7fb9e023282afc.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotActivityLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7004f314b02b3728c44ba17a9b7714e5b918c327">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/ZenboSDK_and_SampleCode_v1.0.67.1808-RobotActivityLibrary-unspecified_c5636c97f462e71805a32913a8fa2ea7c1c9f0d2.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3755a372780da7d5079ccf9305b676e16f07893e.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_ed53fd63287a24f57bfe5d534cffba687cabe544.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboSDK/ZenboSDK.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ddf9f9ad271ae7c5afec20e655be41eabd9b26db">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/ZenboSDK_36bc13c0b6cab68b1625e5ed9c3a7607654a836f.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ec52e4a71489b3b85a558f15d22251854f9b686a.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_ea773009b5125c7474082e9ee7ec2555dd2c239f.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotSensorSample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_8ed86cdaf48a299a7b8a84b81e03aeef8f745c2b.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotDevSample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_44cb3ccfb85934d07a92a0e019376e9ec7275b32.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/ZenboSDK_and_SampleCode_v1.0.67.1808/RobotActivityLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7004f314b02b3728c44ba17a9b7714e5b918c327">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/ZenboSDK_and_SampleCode_v1.0.67.1808-RobotActivityLibrary-unspecified_045c98337d902affb4730a502e9505388c686483.jar" />
+    </item>
+    <item
+        jar="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboHelloWorld/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a7b94518b5271131180c54991e23eac1c29ae9be.jar" />
+    </item>
+
+</items>

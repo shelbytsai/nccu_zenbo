@@ -1,0 +1,4 @@
+#Sat Apr 14 11:46:26 CST 2018
+base.0=/Users/shelbytsai/AndroidStudioProjects/ZenboSDK_and_SampleCode_v1.0.67.1808/ZenboDialogSample/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
